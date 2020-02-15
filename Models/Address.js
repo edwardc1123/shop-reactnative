@@ -8,6 +8,7 @@ class Address{
         this.landMark = landMark
         this.userName = userName
         this.mobileNumber = mobileNumber
+        this.landlineNumber = landlineNumber
         this.alternateMobileNumber = alternateMobileNumber
         this.homeAddress = homeAddress
         this.workAddress = workAddress
